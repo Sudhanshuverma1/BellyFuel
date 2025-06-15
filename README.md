@@ -15,6 +15,12 @@ A responsive and modern restaurant website built using **HTML**, **CSS**, and **
 - Font Awesome icons
 
 <h1></h1>
+<h2>Preview</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ffffa92-f531-4a12-8921-9af97dcd060e" alt="BellyFuel Preview" />
+</p>
+
+<h1></h1>
 <h2> Project Structure</h2>
 
 ```bellyfuel/
