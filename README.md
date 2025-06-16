@@ -1,6 +1,7 @@
 <h2> 🍴 BellyFuel - Restaurant Website</h2>
 
 A responsive and modern restaurant website built using **HTML**, **CSS**, and **JavaScript**.
+**[Live Demo](https://sudhanshuverma1.github.io/BellyFuel/)**
 
 <h1></h1>
 <h2>Features</h2>
