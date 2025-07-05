@@ -54,5 +54,3 @@ Includes embedded Google Map for **Ayodhya, Uttar Pradesh, India**.
 
 **Sudhanshu Verma**  
 [LinkedIn](https://www.linkedin.com/in/sudhanshu-verma-445664287/) • [Instagram](https://www.instagram.com/blacksudhz_)
-
-<h1></h1>
